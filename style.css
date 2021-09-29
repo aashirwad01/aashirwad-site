@@ -1,0 +1,313 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;500;600&display=swap');
+
+:root{
+    --primary-color: rgba(33, 35, 36);
+
+
+}
+body{
+    margin: auto;
+    max-width: 90%;
+    display: block;
+    justify-content:space-around;
+    align-items: center;
+}
+.btn-all{
+    padding: 3rem;
+}
+#projects{
+    font-family: 'Source Code Pro', monospace;
+    display: block;
+    justify-content:space-around;
+    align-items: center;
+   
+ 
+    
+    margin-top:0.05rem;
+    padding:0.5rem;
+    background-color:white ;
+    color:black;
+    border-radius: 1rem;
+    text-align: center;
+}
+#projects ul li{
+   
+    list-style-type: none;
+   
+}
+
+.btn-prg{
+    border-radius: 0.5rem;
+    background-color: black;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    color: azure;
+    font-family:'Source Code Pro', monospace;
+
+}
+#prg-1{
+    font-family: 'Source Code Pro', monospace;
+    display: block;
+    justify-content:space-around;
+    align-items: center;
+   
+ 
+    
+    margin-top:0.05rem;
+    padding:0.5rem;
+   
+    color:black;
+    border-radius: 1rem;
+    text-align: center;
+}
+#img-prg-1{
+    max-width: 35%;
+    font-family: 'Source Code Pro', monospace;
+    text-decoration: none;
+    color: azure;
+    position: relative;
+    border-color: black;
+
+}
+#img-pro{
+    max-width: 40%;
+    font-family: 'Source Code Pro', monospace;
+    text-decoration: none;
+    color: azure;
+    position: relative;
+    border-color: black;
+}
+
+
+
+#blogs{
+    font-family: 'Source Code Pro', monospace;
+    display: block;
+    justify-content:space-around;
+    align-items: center;
+   
+ 
+    
+    margin-top:0.05rem;
+    padding:0.5rem;
+    background-color:white ;
+    color:black;
+    border-radius: 1rem;
+    text-align: center;
+}
+#blogs ul li{
+   
+    list-style-type: none;
+   
+}
+
+.btn-blg{
+    border-radius: 0.5rem;
+    background-color: azure;
+    border-color: black;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    color: black;
+    font-family:'Source Code Pro', monospace;
+
+}
+#blg-1{
+    font-family: 'Source Code Pro', monospace;
+    display: block;
+    justify-content:space-around;
+    align-items: center;
+   
+ 
+    
+    margin-top:0.05rem;
+    padding:0.5rem;
+   
+    color:black;
+    border-radius: 1rem;
+    text-align: center;
+}
+#img-blg-1{
+    max-width: 35%;
+    font-family: 'Source Code Pro', monospace;
+    text-decoration: none;
+    color: azure;
+    position: relative;
+    border-color: black;
+
+}
+.cent-container{
+
+}
+.text-inline{
+    display: inline;
+}
+#intro-ul li{
+    list-style-type: none;
+    display: inline;
+}
+#intro-ul li{
+    font-family: 'Source Code Pro', monospace;
+    text-decoration: none;
+    color: azure;
+    position: relative;
+   
+}
+
+
+#intro{
+    font-family: 'Source Code Pro', monospace;
+    display: block;
+    justify-content:space-around;
+    align-items: center;
+   
+ 
+    
+    margin-top:0.05rem;
+    padding:0.5rem;
+    background-image:url("images/code.png") ;
+    color:azure;
+    border-radius: 1rem;
+    text-align: center;
+}
+#intro-projects{
+    font-family: 'Source Code Pro', monospace;
+    display: block;
+    justify-content:space-evenly;
+    align-items: center;
+   
+ 
+    
+    margin-top:0.05rem;
+    padding:1rem;
+    background-image:url("images/code.png") ;
+    color:azure;
+    border-radius: 0.5rem;
+    text-align: center;
+}
+
+#intro-projects h1{
+    margin-top: 0.05rem;
+    margin-bottom: 0.5rem;
+
+}
+#projects-page{
+    font-family: 'Source Code Pro', monospace;
+    display: block;
+    justify-content:space-around;
+    align-items: center;
+   
+ 
+    
+    margin-top:0.05rem;
+    padding:0.5rem;
+    background-color:white ;
+    color:black;
+    border-radius: 1rem;
+    text-align: center;
+
+}
+/* #projects-page ul p{
+    background-color: black;
+    color: white;
+} */
+#projects-page ul h2{
+    max-width: 50%;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: black;
+    color: azure;
+}
+
+#projects-page ul{
+   
+    display:block;
+}
+#projects-page ul li a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    padding: 0rem;
+
+}
+#projects-page ul li{
+
+    list-style-type: none;
+    display: inline;
+}
+
+
+header
+{
+    font-family: 'Source Code Pro', monospace;
+   
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 2em 3em; 
+    background-image: url("images/code.png");
+    border-radius: 0.5rem;
+    color: azure;
+}
+nav ul{
+   
+    display:block;
+}
+nav ul li a{
+    text-decoration: none;
+    color: azure;
+    position: relative;
+    padding: 0.5rem;
+
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+}
+footer{
+   
+    font-family: 'Source Code Pro', monospace;
+    display: block;
+    justify-content:space-around;
+    align-items: center;
+   
+ 
+    margin-bottom: 2rem;
+    margin-top: 5rem;
+    padding:0.5rem;
+   
+    background-image:url("images/code.png") ;
+    color:white;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+footer p {
+    
+   
+  
+    font-size: large;
+    text-align: center;
+    position: relative;
+  }
+  
+  .footer-list {
+    
+    margin-top: 1rem;
+    position: relative;
+  }
+  
+  .footer-list a,
+  li {
+  
+    
+    display: inline;
+    position: relative;
+  }
+  
+  .img-2 {
+    margin: auto;
+    width: 30px;
+    padding: 0.1rem;
+    position: relative;
+  }
