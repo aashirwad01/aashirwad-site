@@ -1,6 +1,6 @@
 # aashirwad-site
-A demo site for initial portfolio
-An initial novice attempt at creating portfolio site using React and other webdev tools.
+A site for initial portfolio
+An initial novice attempt at creating portfolio site using HTML,CSS and other webdev tools.
 
 
 I as for now know:
@@ -16,5 +16,7 @@ I as for now know:
 5)HTML
 
 6)CSS
+
+7)React
 
 
