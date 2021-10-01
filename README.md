@@ -1,5 +1,5 @@
 # aashirwad-site
-A site for portfolio
+A site for portfolio.
 An initial novice attempt at creating portfolio site using HTML,CSS and other webdev tools.
 
 ## Uses
